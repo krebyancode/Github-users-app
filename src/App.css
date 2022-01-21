@@ -1,0 +1,10 @@
+.main {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+
+h1 {
+  font-size: 5rem;
+  margin-top: 10%;
+  text-align: center;
+}
